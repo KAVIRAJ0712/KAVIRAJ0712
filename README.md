@@ -1,6 +1,6 @@
-     # Hi there, I'M Kaviraj! 👋
+            # Hi there, I'M Kaviraj! 👋
 
-I'm a passionate Full Stack Developer from India, specializing in the MERN stack.
+         I'm a passionate Full Stack Developer from India, specializing in the MERN stack.
 
 - 🔭 Check out my portfolio
 - 📫 How to reach me(mailto:kavirajsnkp712@gmail.com)
