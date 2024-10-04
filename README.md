@@ -1,1 +1,14 @@
-       <h1> Hi I'M Kaviraj</h1>
+# Hi there, I'M Kaviraj! 👋
+
+I'm a passionate Full Stack Developer from India, specializing in the MERN stack.
+
+- 🔭 Check out my portfolio
+- 📫 How to reach me: [Email me](mailto:kavirajsnkp712@gmail.com)
+- ⚡ Fun fact: I love building cool web applications and exploring new technologies!
+
+### Tech Stack:
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB
+
+
