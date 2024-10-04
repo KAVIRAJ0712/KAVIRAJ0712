@@ -2,7 +2,7 @@
 
  I'm a passionate Full Stack Developer from India, specializing in the MERN stack.
 
-- 🔭 Check out my portfolio
+- 🔭 Check out my portfolio(https://app.netlify.com/teams/kaviraj0712/sites)
 - 📫 How to reach me(mailto:kavirajsnkp712@gmail.com)
 - ⚡ Fun fact: I love building cool web applications and exploring new technologies!
 
