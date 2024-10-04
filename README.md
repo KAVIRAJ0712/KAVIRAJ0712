@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Developer from India, specializing in the MERN stack.
 
 - 🔭 Check out my portfolio
-- 📫 How to reach me: [Email me](mailto:kavirajsnkp712@gmail.com)
+- 📫 How to reach me(mailto:kavirajsnkp712@gmail.com)
 - ⚡ Fun fact: I love building cool web applications and exploring new technologies!
 
 ### Tech Stack:
