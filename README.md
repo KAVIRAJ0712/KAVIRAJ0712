@@ -95,7 +95,7 @@
 
 ---
 
-## ✨ What I Do
+##  What I Do
 
 -  Build **ERPNext custom apps & modules**
 -  Implement **secure backend logic**
