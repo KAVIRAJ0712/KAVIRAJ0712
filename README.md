@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔭 **Frappe & ERPNext Specialist** crafting scalable business applications  
 - ❤️ **Open Source Enthusiast & Contributor**  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -97,10 +97,10 @@
 
 ## ✨ What I Do
 
-- 🏗️ Build **ERPNext custom apps & modules**
-- 🔐 Implement **secure backend logic**
-- 🌐 Develop **modern full-stack web applications**
-- ⚙️ Customize **business workflows using Frappe**
+-  Build **ERPNext custom apps & modules**
+-  Implement **secure backend logic**
+-  Develop **modern full-stack web applications**
+-  Customize **business workflows using Frappe**
 
 ---
 
