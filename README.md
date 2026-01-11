@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love building cool web applications and exploring new technologies!
 
   ### Tech Stack:
-  Framework: Frappe
+- Framework: Frappe
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
 - Database: MariaDB
