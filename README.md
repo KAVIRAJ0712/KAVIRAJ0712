@@ -26,13 +26,17 @@
   <a href="https://protfolio-website-3df06a.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kaviraj-p-7934a92a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
 - 🔭 **Frappe & ERPNext Specialist** crafting scalable business applications  
 - ❤️ **Open Source Enthusiast & Contributor**  
@@ -40,7 +44,7 @@
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -95,12 +99,12 @@
 
 ---
 
-##  What I Do
+## ✨ What I Do
 
--  Build **ERPNext custom apps & modules**
--  Implement **secure backend logic**
--  Develop **modern full-stack web applications**
--  Customize **business workflows using Frappe**
+- 🏗️ Build **ERPNext custom apps & modules**
+- 🔐 Implement **secure backend logic**
+- 🌐 Develop **modern full-stack web applications**
+- ⚙️ Customize **business workflows using Frappe**
 
 ---
 
